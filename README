@@ -4,19 +4,13 @@
 The HR Workforce Dashboard is a comprehensive analytics tool developed using Power BI. It provides valuable insights into the workforce of an organization, helping HR professionals and management understand key metrics such as employee distribution, satisfaction levels, and factors influencing employee attrition. This interactive dashboard allows users to explore data visually and make informed decisions based on the analyzed information.
 
 ## Dashboard details
-
 The dashboard utilizes data from various HR-related sources, such as: Employee Demographics: Age, gender, and department of employees. Performance Metrics: Performance reviews and ratings. Attendance Records: Information on attendance, leaves, and absenteeism. Compensation Details: Employee salaries and benefits. Survey Results: Work-life balance and job satisfaction scores.
 
 ## Visuals and Interactions
-
 Donut Chart: Gender distribution of employees.
-
 Bar Chart: Monthly income by department.
-
 Gauge: Total number of employees, work-life balance score, job satisfaction score.
-
 Histogram: Distribution of employees by age.
-
 Key Influencer Chart: Factors influencing employee attrition.
 
 - **Count of Employees by Gender**: A donut chart showing the gender distribution of employees.
